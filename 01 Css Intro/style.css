@@ -1,0 +1,23 @@
+p{
+    color: red;
+    font-size: large;
+    font-weight: 600;
+    /* text-decoration: underline; */
+    font-family: cursive;
+}
+p1{
+    color: blue;
+    font-size: large;
+    font-weight: 600;
+    font-style: italic;
+    /* text-decoration: underline; */
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    color: green;
+    font-size: 32px;
+    font-weight: 600;
+    /* text-decoration: underline; */
+    font-family: cursive;
+}
